@@ -3,7 +3,7 @@
 
 ---
 
-1. Первое задание
+### 1. Первое задание
 ```
 Started by user DVakhrameev
 Running as SYSTEM
@@ -92,7 +92,7 @@ Finished: SUCCESS
 
 
 
-2. Второе задание
+### 2. Второе задание
 ```angular2html
 Started by user DVakhrameev
 [Pipeline] Start of Pipeline
@@ -216,7 +216,7 @@ pipeline {
 ```
 ![img_1.png](img_1.png)
 
-3. Третье задание
+### 3. Третье задание
 ```angular2html
 Started by user DVakhrameev
 [Pipeline] Start of Pipeline
